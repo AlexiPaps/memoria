@@ -2,7 +2,7 @@
 
 *Upload any document. Ask anything. Get instant, semantically ranked answers.*
 
-**Live Demo** → Coming soon...
+**Live Demo** → [https://memoria-hazel-ten.vercel.app/](https://memoria-hazel-ten.vercel.app/)
 
 ---
 
@@ -114,6 +114,7 @@ npm run dev
 ```
 
 → Open [http://localhost:3000](http://localhost:3000)
+
 
 Drop a PDF → wait a few seconds → search anything in it.
 

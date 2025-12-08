@@ -1,0 +1,61 @@
+# Node / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+yarn.lock
+#pnpm-lock.yaml
+
+# Turborepo
+.turbo/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# NestJS
+dist/
+backend/dist/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+backend/.env
+
+# Docker
+docker-compose.override.yml
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+
+# Database (local)
+data/
+postgres_data/
+
+# Drizzle migrations (keep the SQL files, but ignore temp)
+drizzle/
+!drizzle/*.sql
+
+# Misc
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Vercel / Railway / Supabase
+.vercel
+.output

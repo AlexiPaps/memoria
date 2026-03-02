@@ -2,8 +2,6 @@
 
 *Upload any document. Ask anything. Get instant, semantically ranked answers.*
 
-**Live Demo** → [https://memoria-hazel-ten.vercel.app/](https://memoria-hazel-ten.vercel.app/)
-
 ---
 
 ### Try it instantly
